@@ -1,2 +1,2 @@
-# wicaksono.github.io
-A sample website using github
+# My Profile
+This is my profile website.
